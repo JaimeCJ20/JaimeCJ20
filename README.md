@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/PORTAFOLIO GITHUB PRESENTACION.png" alt="Castro Jaime - IT University Student" width="100%">
 </p>
-<img alt="Night Coding" src="./assets/program_gif.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Jaime Castro</h2>
+<img alt="Night Coding" src="./assets/program gif.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Jaime Castro</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Jaime Castro -->
 
