@@ -15,4 +15,4 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at jaimesebastian22@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="./assets/amanecida if.gif" align="right"/>
+<img alt="Night Coding" src="./assets/amanecida gif.gif" align="right"/>
